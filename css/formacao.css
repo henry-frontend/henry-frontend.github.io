@@ -26,7 +26,7 @@
 
 .formacao .subtitulo {
   color: #000000;
-  max-width: 4ch;
+  max-width: 5ch;
 }
 
 .formacao-texto {
@@ -77,7 +77,7 @@
   display: block;
   width: 4px;
   height: 20px;
-  background: linear-gradient(180deg, #997bda 0%, #6a47b3 100%);
+  background: linear-gradient(#b6f829, #67dd0a);
   position: absolute;
   left: -24px;
 }
@@ -133,7 +133,7 @@
   justify-content: space-between;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 800px) {
   .formacao-container {
     grid-template-columns: 1fr;
     padding: 60px 20px;
@@ -146,7 +146,7 @@
     font-size: 1.25rem;
   }
   .formacao-extra h3::before {
-    position: static;
+    position: initial;
     margin-bottom: 10px;
   }
 }
