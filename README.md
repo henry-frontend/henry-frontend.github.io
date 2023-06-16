@@ -1,6 +1,6 @@
 # origamid-lobo-portfolio
 
-Projeto portfólio desenvolvido no curso da Origamid. 
+Projeto portfólio desenvolvido no curso HTML e CSS para Iniciantes da Origamid. 
 
 Obs.: Dados meramentes fictícios 
 
