@@ -1,4 +1,4 @@
-# origamid-lobo-portfolio
+# portfolio-origamid
 
 Projeto portfólio desenvolvido no curso de HTML e CSS para Iniciantes da Origamid. 
 
