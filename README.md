@@ -4,4 +4,4 @@ Projeto portfólio desenvolvido no curso de HTML e CSS para Iniciantes da Origam
 
 Obs.: Dados meramentes fictícios 
 
-Link do site: https://henry-frontend.github.io/origamid-lobo-portfolio/
+Link do site: https://henry-frontend.github.io/portfolio-origamid/
